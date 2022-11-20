@@ -9,7 +9,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="161" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538030231">79.280937,57.654429,0</p>
@@ -22,7 +22,7 @@
           </pts>
         </pline>
         <pline id="162" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538029687">61.280937,57.654429,0</p>
@@ -34,7 +34,7 @@
           </pts>
         </pline>
         <pline id="163" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.19957679276513296">21.374375,91.69537,0</p>
@@ -48,7 +48,7 @@
           </pts>
         </pline>
         <pline id="164" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538030508">43.124375,92.700179,0</p>
@@ -60,7 +60,7 @@
           </pts>
         </pline>
         <pline id="165" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538029687">43.280937,57.654429,0</p>
@@ -72,7 +72,7 @@
           </pts>
         </pline>
         <pline id="166" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538030508">61.124375,92.700179,0</p>
@@ -84,7 +84,7 @@
           </pts>
         </pline>
         <pline id="167" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794911538031024">79.124375,92.700179,0</p>
@@ -97,7 +97,7 @@
           </pts>
         </pline>
         <pline id="168" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.19957679276512769">21.530937,56.64962,0</p>
@@ -111,7 +111,7 @@
           </pts>
         </pline>
         <pline id="169" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>98.580199,112.976188,0</p>
@@ -131,7 +131,7 @@
           </pts>
         </pline>
         <pline id="170" Closed="true">
-          <ModificationCount>144</ModificationCount>
+          <ModificationCount>146</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794899999999677">48.002351,37.091592,0</p>
@@ -143,7 +143,7 @@
           </pts>
         </pline>
         <pline id="171" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.26794875000000223">49.374375,111.927421,0</p>
@@ -155,7 +155,7 @@
           </pts>
         </pline>
         <pline id="172" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>69.030937,50.14962,0</p>
@@ -177,7 +177,7 @@
           </pts>
         </pline>
         <pline id="173" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>129.368222,148.447181,0</p>
@@ -197,7 +197,7 @@
           </pts>
         </pline>
         <pline id="174" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>69.8577,120.609266,0</p>
@@ -229,7 +229,7 @@
           </pts>
         </pline>
         <pline id="175" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>68.874375,90.19537,0</p>
@@ -250,7 +250,7 @@
           </pts>
         </pline>
         <pline id="176" Closed="true">
-          <ModificationCount>51</ModificationCount>
+          <ModificationCount>53</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>42.427796,41.39063,0</p>
@@ -270,7 +270,7 @@
     </layer>
   </layers>
   <MachiningOptions>
-    <OutFile>Z:\30 Modélisme\10 Plan\20 Planeur\JCH\Soute a ballaste\{$cbfile.name}.nc</OutFile>
+    <OutFile>Z:\30 Modélisme\10 Plan\20 Planeur\JCH\Soute a ballaste\30 GCODE\{$cbfile.name}.nc</OutFile>
     <VelocityMode>Undefined</VelocityMode>
     <Stock>
       <PMin>0,0,-5</PMin>
@@ -290,8 +290,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">20</PlungeFeedrate>
+          <CutFeedrate state="Default">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -326,8 +326,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Value">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -423,8 +423,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -586,8 +586,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -683,8 +683,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -733,8 +733,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -896,8 +896,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -1002,8 +1002,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -1108,8 +1108,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -1214,8 +1214,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Default">20</PlungeFeedrate>
-          <CutFeedrate state="Default">200</CutFeedrate>
+          <PlungeFeedrate state="Value">500</PlungeFeedrate>
+          <CutFeedrate state="Value">1000</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />

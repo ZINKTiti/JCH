@@ -9,7 +9,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <pline id="41" Closed="true">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.003442455754193659">92.916667,111.62798,0</p>
@@ -192,7 +192,7 @@
           </pts>
         </pline>
         <pline id="42" Closed="true">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.0034424557903949961">86.196432,91.25,0</p>
@@ -375,7 +375,7 @@
           </pts>
         </pline>
         <pline id="43" Closed="true">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>24.113099,76.25,0</p>
@@ -385,7 +385,7 @@
           </pts>
         </pline>
         <pline id="44" Closed="true">
-          <ModificationCount>39</ModificationCount>
+          <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>110,56.62798,0</p>
@@ -417,8 +417,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Value">500</PlungeFeedrate>
-          <CutFeedrate state="Value">1000</CutFeedrate>
+          <PlungeFeedrate state="Default">20</PlungeFeedrate>
+          <CutFeedrate state="Default">150</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Value">73,83,0</StartPoint>
           <CustomMOPHeader state="Default" />
@@ -523,8 +523,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Value">500</PlungeFeedrate>
-          <CutFeedrate state="Value">1000</CutFeedrate>
+          <PlungeFeedrate state="Default">20</PlungeFeedrate>
+          <CutFeedrate state="Default">150</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Value">109,80,0</StartPoint>
           <CustomMOPHeader state="Default" />
@@ -629,8 +629,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Value">500</PlungeFeedrate>
-          <CutFeedrate state="Value">1000</CutFeedrate>
+          <PlungeFeedrate state="Default">20</PlungeFeedrate>
+          <CutFeedrate state="Default">150</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -676,8 +676,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.059993295099100279</ParametricPoint>
               <Normal>
-                <X>0.99590581248547028</X>
-                <Y>0.090396972613331739</Y>
+                <X>0.99590581248547039</X>
+                <Y>0.090396972613331281</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -685,8 +685,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.1647929962822885</ParametricPoint>
               <Normal>
-                <X>-0.11043152607484653</X>
-                <Y>0.99388373467361879</Y>
+                <X>0.996521833087087</X>
+                <Y>0.083332083741809</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -703,8 +703,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.3562286170058519</ParametricPoint>
               <Normal>
-                <X>-0.99634275596224231</X>
-                <Y>0.085446548447339926</Y>
+                <X>-0.99634275596224287</X>
+                <Y>0.0854465484473343</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -712,8 +712,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.45914694817769636</ParametricPoint>
               <Normal>
-                <X>-0.99588717064086518</X>
-                <Y>0.090602115609582173</Y>
+                <X>-0.995887170640864</X>
+                <Y>0.090602115609596814</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -721,8 +721,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.56878279054038361</ParametricPoint>
               <Normal>
-                <X>-0.99835370901927767</X>
-                <Y>0.057357403074508373</Y>
+                <X>-0.998353709019278</X>
+                <Y>0.057357403074499734</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -731,7 +731,7 @@
               <ParametricPoint>0.65155394475487194</ParametricPoint>
               <Normal>
                 <X>-0.99997244153553666</X>
-                <Y>0.0074240264990050086</Y>
+                <Y>0.0074240264990031871</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -748,8 +748,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.86802164381524627</ParametricPoint>
               <Normal>
-                <X>0.99855098195315617</X>
-                <Y>0.053813905641453955</Y>
+                <X>0.99855098195320424</X>
+                <Y>0.053813905640561904</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -757,8 +757,8 @@
               <ParentEntityID>42</ParentEntityID>
               <ParametricPoint>0.95</ParametricPoint>
               <Normal>
-                <X>0.998440312971229</X>
-                <Y>0.055829574903578941</Y>
+                <X>0.99844031297122882</X>
+                <Y>0.055829574903580363</Y>
               </Normal>
             </HoldingTab>
           </Tabs>
@@ -771,8 +771,8 @@
           <ToolDiameter state="Default">2</ToolDiameter>
           <ToolNumber state="Default">0</ToolNumber>
           <ToolProfile state="Default">Unspecified</ToolProfile>
-          <PlungeFeedrate state="Value">500</PlungeFeedrate>
-          <CutFeedrate state="Value">1000</CutFeedrate>
+          <PlungeFeedrate state="Default">20</PlungeFeedrate>
+          <CutFeedrate state="Default">150</CutFeedrate>
           <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
@@ -818,8 +818,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.088255859737776166</ParametricPoint>
               <Normal>
-                <X>-0.99657179364407822</X>
-                <Y>-0.0827324610598815</Y>
+                <X>-0.99642244203354158</X>
+                <Y>-0.084512229954684048</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -827,8 +827,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.17505144046704585</ParametricPoint>
               <Normal>
-                <X>-0.99680093687830917</X>
-                <Y>-0.079924290666387524</Y>
+                <X>-0.99680093687831539</X>
+                <Y>-0.0799242906663099</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -845,8 +845,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.34446371662395159</ParametricPoint>
               <Normal>
-                <X>0.99656096706889419</X>
-                <Y>-0.0828627715847735</Y>
+                <X>0.99656096706891117</X>
+                <Y>-0.082862771584568368</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -854,8 +854,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.42561786651101663</ParametricPoint>
               <Normal>
-                <X>0.99667052164401071</X>
-                <Y>-0.0815344791229808</Y>
+                <X>0.99667052164400982</X>
+                <Y>-0.081534479122990111</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -863,8 +863,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.539425162712825</ParametricPoint>
               <Normal>
-                <X>0.99766583629362782</X>
-                <Y>-0.068285277275091233</Y>
+                <X>0.99766583629362815</X>
+                <Y>-0.068285277275087111</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -872,8 +872,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.64125782521192121</ParametricPoint>
               <Normal>
-                <X>0.99994218567322113</X>
-                <Y>-0.010752921047852467</Y>
+                <X>0.99994218567322135</X>
+                <Y>-0.01075292104784656</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -890,8 +890,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.87475995423540176</ParametricPoint>
               <Normal>
-                <X>-0.999934450630818</X>
-                <Y>-0.011449648101328371</Y>
+                <X>-0.99993445063081821</X>
+                <Y>-0.011449648101307174</Y>
               </Normal>
             </HoldingTab>
             <HoldingTab>
@@ -899,8 +899,8 @@
               <ParentEntityID>41</ParentEntityID>
               <ParametricPoint>0.97899278062143058</ParametricPoint>
               <Normal>
-                <X>-0.9976658362936287</X>
-                <Y>-0.068285277275079437</Y>
+                <X>-0.997665836293628</X>
+                <Y>-0.068285277275089221</Y>
               </Normal>
             </HoldingTab>
           </Tabs>
@@ -914,7 +914,7 @@
       </Stock>
       <ToolProfile>Unspecified</ToolProfile>
       <Nesting>
-        <BasePoint>0,0</BasePoint>
+        <BasePoint />
         <NestMethod>None</NestMethod>
       </Nesting>
     </part>
