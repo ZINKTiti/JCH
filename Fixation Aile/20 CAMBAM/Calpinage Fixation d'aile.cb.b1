@@ -420,6 +420,7 @@
     </layer>
   </layers>
   <MachiningOptions>
+    <OutFile>{$cbfile.name}.nc</OutFile>
     <Stock>
       <PMin>0,0,-5</PMin>
       <PMax>130,120</PMax>
